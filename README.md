@@ -7,4 +7,4 @@ Here are some of the features planned to be implemented:
 * News update
 
 Run the bot with this command:
-node DiscordBot.js
+   node DiscordBot.js
